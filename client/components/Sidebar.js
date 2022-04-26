@@ -14,7 +14,17 @@ const style = {
   }
 
 function Sidebar(){
+    return (
+        <div className={style.wrapper}>
+            <div className={style.twitterIconContainer}>
 
+            </div>
+            <div className={style.navContainer}>
+
+            </div>
+
+        </div>
+    )
 }
 
 export default Sidebar
