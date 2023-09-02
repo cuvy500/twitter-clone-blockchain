@@ -8,6 +8,8 @@ import Rightbar from "./components/Rightbar"
 import "./App.css";
 import { useMoralis } from "react-moralis";
 import { ConnectButton, Icon } from "web3uikit";
+import { ConnectButton, Icon } from "web3uikit";
+import { ConnectButton, Icon } from "web3uikit";
 
 const App = () => {
   const { isAuthenticated, Moralis } = useMoralis();
