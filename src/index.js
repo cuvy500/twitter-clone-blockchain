@@ -19,7 +19,7 @@ ReactDOM.render(
       </NotificationProvider>
     </MoralisProvider>
   </React.StrictMode>,
-  document.getElementById('x_root')
+  document.getElementById('rs_3_root')
 );
 
 // If you want to start measuring performance in your app, pass a function
